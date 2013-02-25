@@ -1,0 +1,4 @@
+stanford_chinese_network: process with pid 65372 started.
+sudo: no tty present and no askpass program specified
+stanford_chinese_network: process with pid 69777 started.
+/Users/borui/Documents/SANDBOX/sn/app/app.rb:47:in `<main>': undefined method `before' for main:Object (NoMethodError)
